@@ -16,6 +16,6 @@ It allows users to browse products, apply category and price filters, and add it
 - **Deployment:** GitHub Pages / Netlify
 
 ## 🚀 Live Demo
-[🔗 View Deployed Project](#https://shopsmart-catalog.vercel.app/)
+[🔗 View Deployed Project](https://shopsmart-catalog.vercel.app/)
 
 ## 📂 Folder Structure
