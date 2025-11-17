@@ -13,9 +13,8 @@ It allows users to browse products, apply category and price filters, and add it
 ## 🧰 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6)
 - **Storage:** LocalStorage
-- **Deployment:** GitHub Pages / Netlify
+- **Deployment:** GitHub Pages / Vercel
 
 ## 🚀 Live Demo
 [🔗 View Deployed Project](https://shopsmart-catalog.vercel.app/)
 
-## 📂 Folder Structure
